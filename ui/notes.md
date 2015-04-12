@@ -1,6 +1,6 @@
-# An active note
+# Managing notes
 
-Once logged in this will be the page shown to the user and the main page from where the user can edit, add and delete his notes/tasks.
+Once logged in this will be the page shown to the user. This is the main page from where the user can edit, add and delete his notes/tasks.
 
 ![Editing a notebook](https://raw.githubusercontent.com/Abijeet/markdown-notes-doc/master/img/editing-notebook.png)
 
@@ -64,3 +64,12 @@ On an in-progress task, the last modified on date is shown.
 ### 9. Date on completed tasks
 
 On a completed task, the completed on date is shown.
+
+
+# Viewing older notes
+
+Older notes can be viewed via the calendar (described here [TODO]). The older notes view is simply a modified version of the actual notes view. This view shows the users the tasks that were completed by them on the day selected on the calendar. It is not possible to make any sort of modifications to past notes.
+
+> Since this gives an indication of tasks that were completed, the older notes view is only applicable for tasks based notebooks.
+
+![The older notes view](https://raw.githubusercontent.com/Abijeet/markdown-notes-doc/master/img/older-notes.png)
