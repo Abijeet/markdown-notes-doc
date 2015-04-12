@@ -1,23 +1,24 @@
 # An active note
 
+Once logged in this will be the page shown to the user and the main page from where the user can edit, add and delete his notes/tasks.
 
 ![Editing a notebook](https://raw.githubusercontent.com/Abijeet/markdown-notes-doc/master/img/editing-notebook.png)
 
-## Notes from the image
+## Notes on the image
 
 The numbers in the prefix of the headings below represent the numbers in the image.
 
 ### 1. Icons in the textbox
 
-A normal editor will display two icons - **Delete** and **Edit**. If a editor is inside a **Task** based list, it will also contain a **Checkbox** that denotes the state of the task. When a user checks a checkbox, it tells the system that the user has finished that task.
+A normal task/note will display two icons - **Delete** and **Edit**. If a task/note is inside a **Task** based notebook, it will also contain a **Checkbox** that denotes the state of the task. When a user checks a checkbox, it tells the system that the user has finished that task.
 
-These icons will be only visible when the editor has focus.
+These icons will be only visible when the task has focus.
 
 ### 2. Note-level buttons
 
 #### a. Add new note
 
-Clicking on this button will add an editor at the bottom of all existing editor and will put the focus in the editor, so the user can begin typing immediately.
+Clicking on this button will add a note editor at the bottom of all existing tasks/notes and will put the focus in the editor, so the user can begin typing immediately.
 
 #### b. Settings 
 
