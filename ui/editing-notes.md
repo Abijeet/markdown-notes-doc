@@ -44,14 +44,22 @@ The UI also provides the user a way to create new notes by click on the **+ New 
 
 ### 6. Tabbed interface
 
-The UI uses a tabbed based interface where each note is opened as a tab.
+The UI uses a tabbed based interface where each tab represents a notebook. This allows users to use an interface that they are familiar with (a browser). 
 
 ### 7. Application-level buttons
 
 #### a. My Profile
 
+This will open up the My Profile dialog described here. [TODO]
+
 #### b. Logout
+
+This will logout the user and bring them to the login page, described here. [TODO]
 
 ### 8. Date on in progress tasks
 
+On an in-progress task, the last modified on date is shown.
+
 ### 9. Date on completed tasks
+
+On a completed task, the completed on date is shown.
