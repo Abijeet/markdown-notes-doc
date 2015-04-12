@@ -1,0 +1,113 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1104" measuredH="643" mockupW="975" mockupH="628">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="249" y="52" w="855" h="591" measuredW="313" measuredH="100" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>square</borderStyle>
+        <color>16777215</color>
+        <selectedIndex>0</selectedIndex>
+        <tabHPosition>left</tabHPosition>
+        <text>Daily%20%20x%2CBlog%20Items%20%20x%2CThings%20to%20buy%20%20x</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="129" y="108" w="-1" h="-1" measuredW="106" measuredH="105" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>%5Bx%5D%20Daily%0A%5B%20%5D%20Books%20to%20read%0A%5Bx%5D%20Blog%20Items%0A%5Bx%5D%20Things%20to%20buy%0A%5B%20%5D%20Games%20to%20play</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="264" y="263" w="809" h="-1" measuredW="158" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <state>disabled</state>
+        <text>Get%20groceries%09%09</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="264" y="138" w="809" h="-1" measuredW="187" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <state>disabled</state>
+        <text>Complete%20the%20mockups%20today</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="264" y="180" w="809" h="-1" measuredW="84" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <state>disabled</state>
+        <text>Call%20Shaggy</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TextInput" x="264" y="221" w="809" h="-1" measuredW="64" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <state>disabled</state>
+        <text>Call%20Situ</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Link" x="129" y="61" w="-1" h="-1" measuredW="96" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+%20New%20notebook</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::ButtonBar" x="941" y="15" w="-1" h="-1" measuredW="147" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>My%20profile%2C%20Logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Button" x="382" y="96" w="-1" h="-1" measuredW="139" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Go%20to%20Today%27s%20notes</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::TextInput" x="264" y="96" w="111" h="-1" measuredW="104" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>15th%20April%2C%202015</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::CallOut" x="1026" y="325" w="32" h="30" measuredW="37" measuredH="39" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Button" x="1000" y="96" w="-1" h="-1" measuredW="73" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Settings</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::TextInput" x="264" y="305" w="809" h="-1" measuredW="158" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <state>disabled</state>
+        <text>Get%20groceries%09%09</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::CallOut" x="956" y="90" w="-1" h="-1" measuredW="37" measuredH="39" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::TextInput" x="264" y="347" w="809" h="-1" measuredW="158" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <state>disabled</state>
+        <text>Get%20groceries%09%09</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Title" x="255" y="623" w="260" h="-1" measuredW="164" measuredH="15" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <color>6710886</color>
+        <size>12</size>
+        <text>Viewing%20old%20completed%20tasks...</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::CallOut" x="530" y="94" w="32" h="30" measuredW="41" measuredH="39" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
