@@ -73,3 +73,26 @@ Older notes can be viewed via the calendar (described here [TODO]). The older no
 > Since this gives an indication of tasks that were completed, the older notes view is only applicable for tasks based notebooks.
 
 ![The older notes view](https://raw.githubusercontent.com/Abijeet/markdown-notes-doc/master/img/older-notes.png)
+
+## Notes on the image
+
+### 1. Add new notes
+
+As expected, the add new notes button will not be present when looking at an older note.
+
+### 2. Travelling between notes
+
+#### a. The "Go to Today's notes" button
+
+This button will appear whenever we are viewing notes in the past or in the future. This allows you to quickly travel to today's notes.
+
+#### b. The date
+
+The date shown is the date for which the user is viewing the notes. The user can go back to the calendar view (described here [TODO]) by clicking on this button.
+
+### 3. Icons/Dates on notes
+
+The user will not be shown any dates on a past note, since the completed on date is the date on which the note is shown
+
+Icons will also remain disabled since this note/task has already been completed.
+
