@@ -21,22 +21,22 @@ The image is self explanatory, but a few notes -
 
 # Forgot Password
 
-The following screen will allow a user to retrieve a token that will allow them to reset their password.
+The following screen will allow a user to *retrieve a token* that will allow them to reset their password.
 
 ![Retrieve forgot password link](https://raw.githubusercontent.com/Abijeet/markdown-notes-doc/master/img/forgot-password.png)
 
-Once the user enters their email and password, the token will be sent to the user if they exist in the system.
+Once the user enters their email and password, the token will be sent to the user's email address if they exist in the system.
 
-The user can then visit this page, 
+The user can then visit this page (from the link in the sign in page) - 
 
-![TODO]
+![Token validation](https://raw.githubusercontent.com/Abijeet/markdown-notes-doc/master/img/password-token.png)
 
-Here the user can enter the token and if the token is valid they'll be redirected to the following page -
+Here the user can enter the token and if the token is valid they'll be redirected (read animated) to the following page -
 
-![TODO]
+![Reset password](https://github.com/Abijeet/markdown-notes-doc/blob/master/img/reset-password.png)
 
-Once here, the user can enter their new password.
+Here the user can enter their new password and then sign-in to the system with the new password.
 
-> A link is considered to be expired if - 
+> A token is considered to be expired/invalid if - 
 > - It has not been used in 24 hours
 > - It has already been used.
