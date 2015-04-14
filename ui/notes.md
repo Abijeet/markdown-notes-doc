@@ -1,4 +1,4 @@
-# Managing notes
+# Managing a note
 
 Once logged in this will be the page shown to the user. This is the main page from where the user can edit, add and delete his notes/tasks.
 
@@ -65,6 +65,21 @@ On an in-progress task, the last modified on date is shown.
 
 On a completed task, the completed on date is shown.
 
+# The Calendar
+
+The calendar maintains a track of the completed tasks on a monthly basis. It can be used to navigate between completed notes.
+
+![The Calendar](https://raw.githubusercontent.com/Abijeet/markdown-notes-doc/master/img/notes-calendar.png)
+
+## Notes on the image
+
+### 1. The current day
+
+The calendar highlights the current day in gray. The color in the final UI might be different, but there will be an indication of the current day.
+
+### 2. Completed tasks
+
+If a day in the past has a To be completed.
 
 # Viewing older notes
 
@@ -95,4 +110,3 @@ The date shown is the date for which the user is viewing the notes. The user can
 The user will not be shown any dates on a past note, since the completed on date is the date on which the note is shown
 
 Icons will also remain disabled since this note/task has already been completed.
-
