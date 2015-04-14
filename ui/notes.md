@@ -22,11 +22,13 @@ Clicking on this button will add a note editor at the bottom of all existing tas
 
 #### b. Settings 
 
-This will popup out the dialog described here. [TODO]
+This will popup out the dialog described [here](https://github.com/Abijeet/markdown-notes-doc/blob/master/ui/notes.md#adding-a-notebook). 
+
+> The user will not be able to change the type of the notebook (Task based or normal)
 
 ### 3. Note date
 
-On an active notebook this shows the date from the current, clicking on it will open the calendar. The description for this screen can be found here. [TODO]
+On an active notebook this shows the date from the current, clicking on it will open the calendar. The description for this screen can be found [here](https://github.com/Abijeet/markdown-notes-doc/blob/master/ui/notes.md#the-calendar).
 
 ### 4. The status bar
 
@@ -41,7 +43,7 @@ This area of the UI shows the user the list of notebooks created by them in the 
 - Clicking on an unchecked checkbox will open the corresponding notebook as a tab in the UI, and will transfer focus to the first note in the UI.
 - Clicking on an checked checkbox will close the corresponding notebook.
 
-The UI also provides the user a way to create new notes by click on the **+ New notebook** link. This will bring up a dialog box described here. [TODO]
+The UI also provides the user a way to create new notes by click on the **+ New notebook** link. This will bring up a dialog box described [here](https://github.com/Abijeet/markdown-notes-doc/blob/master/ui/notes.md#adding-a-notebook).
 
 ### 6. Tabbed interface
 
@@ -51,11 +53,11 @@ The UI uses a tabbed based interface where each tab represents a notebook. This 
 
 #### a. My Profile
 
-This will open up the My Profile dialog described here. [TODO]
+This will open up the My Profile dialog described [here](https://github.com/Abijeet/markdown-notes-doc/blob/master/ui/user-management.md#profile).
 
 #### b. Logout
 
-This will logout the user and bring them to the login page, described here. [TODO]
+This will logout the user and bring them to the login page, described [here](https://github.com/Abijeet/markdown-notes-doc/blob/master/ui/user-management.md#sign-in).
 
 ### 8. Date on in progress tasks
 
@@ -99,7 +101,7 @@ Clicking on this button will take the user directly to today's note.
 
 # Viewing older notes
 
-Older notes can be viewed via the calendar (described here [TODO]). The older notes view is simply a modified version of the actual notes view. This view shows the users the tasks that were completed by them on the day selected on the calendar. It is not possible to make any sort of modifications to past notes.
+Older notes can be viewed via the calendar ([described here](https://github.com/Abijeet/markdown-notes-doc/blob/master/ui/notes.md#the-calendar) ). The older notes view is simply a modified version of the actual notes view. This view shows the users the tasks that were completed by them on the day selected on the calendar. It is not possible to make any sort of modifications to past notes.
 
 > Since this gives an indication of tasks that were completed, the older notes view is only applicable for tasks based notebooks.
 
@@ -119,7 +121,7 @@ This button will appear whenever we are viewing notes in the past or in the futu
 
 #### b. The date
 
-The date shown is the date for which the user is viewing the notes. The user can go back to the calendar view (described here [TODO]) by clicking on this button.
+The date shown is the date for which the user is viewing the notes. The user can go back to the calendar view ([described here](https://github.com/Abijeet/markdown-notes-doc/blob/master/ui/notes.md#the-calendar)) by clicking on this button.
 
 ### 3. Icons/Dates on notes
 
