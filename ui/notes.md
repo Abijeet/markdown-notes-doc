@@ -22,9 +22,11 @@ Clicking on this button will add a note editor at the bottom of all existing tas
 
 #### b. Settings 
 
-This will popup out the dialog described [here](https://github.com/Abijeet/markdown-notes-doc/blob/master/ui/notes.md#adding-a-notebook). 
+This will popup out the following dialog - ![Editing notebook properties](https://raw.githubusercontent.com/Abijeet/markdown-notes-doc/master/img/editing-notebook-props.png). 
 
-> The user will not be able to change the type of the notebook (Task based or normal)
+The functionality of this dialog is similar to the [Add new notebook](https://github.com/Abijeet/markdown-notes-doc/blob/master/ui/notes.md#adding-a-notebook) dialog.
+
+Clicking on the **delete** button will delete the notebook alongwith all the notes contained in the task.
 
 ### 3. Note date
 
