@@ -67,7 +67,7 @@ On a completed task, the completed on date is shown.
 
 # The Calendar
 
-The calendar maintains a track of the completed tasks on a monthly basis. It can be used to navigate between completed notes.
+The calendar maintains a track of the completed tasks on a monthly basis. It can be used to navigate between completed notes and to create/view future notes.
 
 ![The Calendar](https://raw.githubusercontent.com/Abijeet/markdown-notes-doc/master/img/notes-calendar.png)
 
@@ -79,7 +79,23 @@ The calendar highlights the current day in gray. The color in the final UI might
 
 ### 2. Completed tasks
 
-If a day in the past has a To be completed.
+Day's in the past may have a task label if any tasks have been completed on that day. For example, the calendar above shows the label "5 Tasks" under 11th of March, 2015. This means that on this day, 5 tasks were completed by the user.
+
+### 3. Upcoming tasks
+
+Day's in the future may also have a task labels. It is possible for the user to create tasks in the future. These notes will appear automatically on that day for the user, alongwith any tasks that might have carried forward from previous days. This will allow the system to also function as a daily reminder.
+
+### 4. Current calendar month
+
+User can toggle between calendar months, using these dropdowns.
+
+### 5. Calendar title
+
+The title of the calendar depends on the notes' whose calendar the user is viewing. The notes' name is displayed as **Calendar for "xyz" notebook**, where "xyz" is the name of the notebook.
+
+### 6. The "today" button
+
+Clicking on this button will take the user directly to today's note.
 
 # Viewing older notes
 
