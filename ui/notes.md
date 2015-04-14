@@ -22,7 +22,9 @@ Clicking on this button will add a note editor at the bottom of all existing tas
 
 #### b. Settings 
 
-This will popup out the following dialog - ![Editing notebook properties](https://raw.githubusercontent.com/Abijeet/markdown-notes-doc/master/img/editing-notebook-props.png). 
+This will popup out the following dialog - !
+
+[Editing notebook properties](https://raw.githubusercontent.com/Abijeet/markdown-notes-doc/master/img/editing-notebook-props.png). 
 
 The functionality of this dialog is similar to the [Add new notebook](https://github.com/Abijeet/markdown-notes-doc/blob/master/ui/notes.md#adding-a-notebook) dialog.
 
