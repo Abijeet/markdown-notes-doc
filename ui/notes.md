@@ -126,3 +126,22 @@ The date shown is the date for which the user is viewing the notes. The user can
 The user will not be shown any dates on a past note, since the completed on date is the date on which the note is shown
 
 Icons will also remain disabled since this note/task has already been completed.
+
+
+# Adding a notebook
+
+When the user clicks on the **new notebook** described [here](https://github.com/Abijeet/markdown-notes-doc/blob/master/ui/notes.md#5-list-of-notebooks), a dialog box pops-up that allows the user to add a new notebook.
+
+![New notebook dialog](https://raw.githubusercontent.com/Abijeet/markdown-notes-doc/master/img/new-book.png)
+
+### 1. Notebook name
+
+The notebook name can contain any characters but needs to be unique for the user.
+
+### 2. Shrinking notes
+
+Notes when in focus automatically expand to the same height as their content, but when the user focuses out, this property will determine with the notes shrink to a single line, or stay at their current height.
+
+### 3. Task based notebooks
+
+Task based notebooks will have a checkbox in every note. Clicking on the checkbox will mark the note/task as completed. These notebooks track what notes are completed on daily basis, and uncompleted notes will be added automatically to the next day.
