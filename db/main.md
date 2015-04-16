@@ -1,6 +1,6 @@
 # The database diagram
 
-The database consists of three tables -
+The database consists of **three** tables -
 
 1. users
 2. notebooks
@@ -10,5 +10,5 @@ The database consists of three tables -
 
 The basic relationship can be described as follows -
 
-- Users have notebooks
-- Notebooks have notes
+- Users have notebooks.
+- Notebooks have notes.
