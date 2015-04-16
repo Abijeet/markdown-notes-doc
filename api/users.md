@@ -8,6 +8,18 @@ Validate a user's credentials. Returns the user information and the list of note
 
 Used for registering a user.
 
+### [ POST ] `/user/token/validate`
+
+Takes a token, email, and checks if the token is valid. 
+
+### [ POST ] `/user/password`
+
+Accepts the email, and if present sends an email to the user with that email. This email contains a token which can be used to change the password.
+
+### [ PUT ] `/user/password`
+
+Takes the user's email or ID, and updates their password.
+
 ### [ GET ] `/user/:id/notebooks`
 
 Get user's notebooks.
