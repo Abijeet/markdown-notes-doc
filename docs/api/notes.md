@@ -21,7 +21,7 @@ Fetches the notes for an entire month. The above URL, fetches the notes for the 
 Fetches a summary of the notes. This usually gives an indication of the number of notes present, and the number of completed notes.
 If it's not a task based notebook, all notes will be marked as completed.
 
-### [ GET ] `/user/:id/notebook/:notebookid/note/:id
+### [ GET ] `/user/:id/notebook/:notebookid/note/:id`
 
 Fetches the notes with the given ID. Can be passed the `extended` parameter to fetch the note's contents as well.
 
