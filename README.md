@@ -18,7 +18,7 @@ The documentation for the API can be found [here](https://github.com/Abijeet/mar
 
 The documentation for the UI can be found [here](https://github.com/Abijeet/markdown-notes-doc/tree/master/docs/ui)
 
-## Components to be used.
+## Components
 
-- UI component -  [bootflat](http://bootflat.github.io/documentation.html)
+- UI component -  [Bootflat](http://bootflat.github.io/documentation.html)
 - Server will be built using LAMP, using [klein.php](https://github.com/chriso/klein.php) for routing purposes.
