@@ -42,4 +42,10 @@ Can be used to update an existing note.
 
 Can be used to delete an existing note.
 
+### [ POST ] `/user/:id/notebook/:notebookid/note/:id/check`
 
+Can be used to mark a note as checked. This can be only done for notes that are present inside a task based notebook.
+
+### [ POST ] `/user/:id/notebook/:notebookid/note/:id/uncheck`
+
+Can be used to mark a completed note as incomplete. This can be only done for notes that are present inside a task based notebook and belong to the current day.
