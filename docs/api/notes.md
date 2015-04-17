@@ -1,4 +1,4 @@
-# The notebook API
+# The notes API
 
 ### [ GET ] `/user/:id/notebook/:notebookid/notes`
 
