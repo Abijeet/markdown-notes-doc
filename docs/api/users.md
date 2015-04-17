@@ -20,10 +20,6 @@ Accepts the email, and if present sends an email to the user with that email. Th
 
 Takes the user's email or ID, and updates their password.
 
-### [ GET ] `/user/:id/notebooks`
-
-Get user's notebooks.
-
 ### [ GET ] `/user/:id`
 
 Fetches the user's information such as the email address, username, id, timezone.
