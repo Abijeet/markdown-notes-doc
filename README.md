@@ -21,4 +21,4 @@ The documentation for the UI can be found [here](https://github.com/Abijeet/mark
 ## Components
 
 - UI component -  [Bootflat](http://bootflat.github.io/documentation.html)
-- Server will be built using LAMP, using [klein.php](https://github.com/chriso/klein.php) for routing purposes.
+- Server will be built using **LAMP**(PHP), using [klein.php](https://github.com/chriso/klein.php) for routing purposes.
