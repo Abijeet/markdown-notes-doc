@@ -1,18 +1,18 @@
 # The notebooks API
 
-### [ GET ] `/user/:id/notebooks`
+### [ GET ] `/user/[i:userId]/notebooks`
 
 Get user's notebooks.
 
-### [ POST ] `/user/:id/notebook`
+### [ POST ] `/user/[i:userId]/notebook`
 
 Create a notebook
 
-### [ PUT ] `/user/:id/notebook/:id`
+### [ PUT ] `/user/[i:userId]/notebook/[i:id]`
 
 Updates a notebook. The type of a notebook cannot be changed.
 
-### [ DELETE ] `/user/:id/notebook`
+### [ DELETE ] `/user/[i:userId]/notebook/[i:id]`
 
 Can be used to delete a notebook.
 
