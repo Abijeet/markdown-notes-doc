@@ -16,14 +16,14 @@ Takes a token, email, and checks if the token is valid.
 
 Accepts the email, and if present sends an email to the user with that email. This email contains a token which can be used to change the password.
 
-### [ PUT ] `/user/password`
+### [ PUT ] `/user/[i:id]/password`
 
 Takes the user's email or ID, and updates their password.
 
-### [ GET ] `/user/:id`
+### [ GET ] `/user/[i:id]`
 
 Fetches the user's information such as the email address, username, id, timezone.
 
-### [ PUT ] `/user/:id`
+### [ PUT ] `/user/[i:id]`
 
 Used to update the user information such as the email, timezone etc.
