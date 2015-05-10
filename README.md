@@ -8,9 +8,12 @@ Markdown notes is a note taking app. It supports the following features -
 3. It allows you to create custom task based notebooks.
 4. Tasks can be created in the future.
 5. Incomplete tasks will automatically be added to the next day's notes.
-6. Allows you to create notebooks that are not task based.  
+6. Allows you to create notebooks that are not task based. 
+7. Completely offline based, no server connectivity. Notes can be synched if desired using a third party utility such as Dropbox or Google drive.
 
 ## Documentation for API
+
+> **This is no longer being used**. 
 
 The documentation for the API can be found [here](https://github.com/Abijeet/markdown-notes-doc/tree/master/docs/api)
 
@@ -20,5 +23,5 @@ The documentation for the UI can be found [here](https://github.com/Abijeet/mark
 
 ## Components
 
-- UI component -  [Bootflat](http://bootflat.github.io/documentation.html)
-- Server will be built using **LAMP**(PHP), using [klein.php](https://github.com/chriso/klein.php) for routing purposes.
+- UI component -  [UI Kit](http://getuikit.com/)
+- Development Framework - [Electron] (https://github.com/atom/electron)
